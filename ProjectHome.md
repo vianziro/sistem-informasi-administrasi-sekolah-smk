@@ -1,0 +1,1 @@
+Sistem Informasi Administrasi Sekolah SMK adalah sebuah aplikasi gratis yang digunakan untuk mendukung pendataan Dapok SMK dan digunakan sebagai aplikasi Sistem Informasi di SMK
